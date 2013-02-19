@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Baptiste Quéméner</title>
+        <meta name="description" content="">
+        <meta name="author" content="">
+
+        <!-- HTML5 shim, for IE6-8 support of HTML elements -->
+        <!--[if lt IE 9]>
+        <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+
+        <!-- styles -->
+        <link rel="stylesheet" href="styles/bootstrap.css">
+        <link rel="stylesheet" href="styles/default.css">
+
+    </head>
+    <body>
+        <div class="container">
+            <header id="overview">
+                <div class="row">
+                    <div class="span8">
+                        <img src="/media/img/micro.png" alt="Microphone" id="micro"/>
+                        <h1>Baptiste Quéméner</h1>
+                        <p class="lead">Let's roll baby</p>
+                    </div>
+                    <div class="span4">
+                        <address>
+                            795 Folsom Ave, Suite 600<br />
+                            San Francisco, CA 94107<br/>
+                            <abbr title="Phone">P:</abbr> (123) 456-7890<br/>
+                            <a href="mailto:">myadress@mail.com</a>
+                        </address>
+                    </div>
+                </div>
+            </header>
+            {% include 'layouts/alerts.twig'%}
+            {% include 'layouts/topbar.twig'%}
+            {{ content }}
+            {% include 'layouts/footer.twig'%}
+        </div>
+
+        <!-- scripts -->
+        <script type="text/javascript" src="scripts/default.js"></script>
+        <script type="text/javascript" src="scripts/jquery.min.js"></script>
+        <script type="text/javascript" src="scripts/bootstrap.min.js"></script>
+    </body>
+</html>
+
