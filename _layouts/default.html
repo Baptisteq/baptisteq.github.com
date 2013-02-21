@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>Baptiste Quéméner</title>
+        <title>{{ page.title }} | Baptiste Quéméner</title>
         <meta name="description" content="">
         <meta name="author" content="">
 
@@ -12,8 +12,9 @@
         <![endif]-->
 
         <!-- styles -->
-        <link rel="stylesheet" href="styles/bootstrap.css">
-        <link rel="stylesheet" href="styles/default.css">
+        <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico" />
+        <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+        <link rel="stylesheet/less" type="text/css" href="css/default.less">
 
     </head>
     <body>
@@ -21,7 +22,7 @@
             <header id="overview">
                 <div class="row">
                     <div class="span8">
-                        <img src="/media/img/micro.png" alt="Microphone" id="micro"/>
+                        <img src="/images/micro.png" alt="Microphone" id="micro"/>
                         <h1>Baptiste Quéméner</h1>
                         <p class="lead">Let's roll baby</p>
                     </div>
@@ -35,16 +36,24 @@
                     </div>
                 </div>
             </header>
-            {% include 'layouts/alerts.twig'%}
-            {% include 'layouts/topbar.twig'%}
+            {% include alert.html %}
+            {% include topbar.html %}
             {{ content }}
-            {% include 'layouts/footer.twig'%}
+            {% include footer.html %}
         </div>
 
         <!-- scripts -->
-        <script type="text/javascript" src="scripts/default.js"></script>
-        <script type="text/javascript" src="scripts/jquery.min.js"></script>
-        <script type="text/javascript" src="scripts/bootstrap.min.js"></script>
+        <script type="text/javascript" src="javascript/default.js"></script>
+        <script type="text/javascript" src="javascript/jquery.min.js"></script>
+        <script type="text/javascript" src="javascript/bootstrap.min.js"></script>
+
+        <script type="text/javascript">
+            less = {
+                env: "development",
+                dumpLineNumbers: "comments",
+            };
+        </script>
+        <script type="text/javascript" src="javascript/less.js"></script>
     </body>
 </html>
 
