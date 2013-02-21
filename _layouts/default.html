@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>{{ page.title }} | Baptiste Quéméner</title>
+        <title>{{ page.title }}{% if page.title %} | {% endif %}Baptiste Quéméner</title>
         <meta name="description" content="">
         <meta name="author" content="">
 
@@ -13,8 +13,8 @@
 
         <!-- styles -->
         <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico" />
-        <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
-        <link rel="stylesheet/less" type="text/css" href="css/default.less">
+        <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
+        <link rel="stylesheet/less" type="text/css" href="/css/default.less">
 
     </head>
     <body>
@@ -37,15 +37,14 @@
                 </div>
             </header>
             {% include alert.html %}
-            {% include topbar.html %}
             {{ content }}
             {% include footer.html %}
         </div>
 
         <!-- scripts -->
-        <script type="text/javascript" src="javascript/default.js"></script>
-        <script type="text/javascript" src="javascript/jquery.min.js"></script>
-        <script type="text/javascript" src="javascript/bootstrap.min.js"></script>
+        <script type="text/javascript" src="/javascript/default.js"></script>
+        <script type="text/javascript" src="/javascript/jquery.min.js"></script>
+        <script type="text/javascript" src="/javascript/bootstrap.min.js"></script>
 
         <script type="text/javascript">
             less = {
@@ -53,7 +52,7 @@
                 dumpLineNumbers: "comments",
             };
         </script>
-        <script type="text/javascript" src="javascript/less.js"></script>
+        <script type="text/javascript" src="/javascript/less.js"></script>
     </body>
 </html>
 

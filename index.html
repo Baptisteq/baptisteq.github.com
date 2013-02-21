@@ -1,3 +1,18 @@
 ---
 layout: default
 ---
+<div class="row">
+    <div class="span12">
+        <ul class="unstyled">
+        {% for page in site.pages %}
+        {% if page.layout == 'production' or page.layout == 'finished_production' %}
+        <li>
+            <b>{{ page.title | capitalize }}</b>
+            <span class="badge{% if page.layout == 'finished_production' %} badge-success{% endif %}">{% if page.layout == 'finished_production' %}Fini{% else %}En cours{% endif %}</span>
+            <a href="{{ page.permalink }}">En savoir plus</a>
+        </li>
+        {% endif %}
+        {% endfor %}
+    </ul>
+    </div>
+</div>
