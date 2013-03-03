@@ -6,6 +6,7 @@ layout: default
         {% for page in site.pages %}
         {% if page.layout == 'production' %}
             <h2>{{ page.title | capitalize }}</h2>
+            <a href="{{ page.permalink }}">En savoir plus</a>
             <div class="row">
                 <div class="span5">
                     <dl class="dl-horizontal">
@@ -25,7 +26,6 @@ layout: default
                     {{ page.widget }}
                 </div>
             </div>
-            <a href="{{ page.permalink }}">En savoir plus</a>
         {% endif %}
         {% endfor %}
     </div>
