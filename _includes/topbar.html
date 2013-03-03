@@ -1,7 +1,6 @@
 <div class="subnav">
     <ul class="nav nav-pills">
-        <li class="active"><a href="/productions.html">Productions</a></li>
-        <li><a href="#">Link</a></li>
-        <li><a href="#">Link</a></li>
+        <li class="{% if page.url == '/index.html' %}active{% endif %}"><a href="/">Productions</a></li>
+        <li class="{% if page.url == '/cv.html' %}active{% endif %}"><a href="/cv.html">CV</a></li>
     </ul>
 </div>
