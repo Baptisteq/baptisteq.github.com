@@ -2,7 +2,8 @@
 layout: cv
 ---
 
-# Formations
+Formations
+==========
 ### ISTS (Institut supérieur des techniques du son) (2009 - 2011)
   Actuellement en deuxième année d' ISTS à l'ESRA de Rennes. Formation sur 3 Années dans tous les domaines professionnels liés aux sons:
 
