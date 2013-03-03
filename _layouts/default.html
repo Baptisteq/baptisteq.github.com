@@ -21,12 +21,15 @@
         <div class="container">
             <header id="overview">
                 <div class="row">
-                    <div class="span8">
-                        <img src="/images/micro.png" alt="Microphone" id="micro"/>
+                    <div class="span1"></div>
+                    <div class="span11">
                         <h1>Baptiste Quéméner</h1>
                         <p class="lead">Let's roll baby</p>
                     </div>
-                    <div class="span4">
+                </div>
+                <div class="row">
+                    <div class="span1"></div>
+                    <div class="span11">
                         <address>
                             36, rue Vasselot<br />
                             35000 Rennes<br/>
@@ -36,8 +39,8 @@
                     </div>
                 </div>
             </header>
-            {% include alert.html %}
             {% include topbar.html %}
+            {% include alert.html %}
             {{ content }}
             {% include footer.html %}
         </div>
