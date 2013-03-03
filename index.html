@@ -3,16 +3,30 @@ layout: default
 ---
 <div class="row">
     <div class="span12">
-        <ul class="unstyled">
         {% for page in site.pages %}
-        {% if page.layout == 'production' or page.layout == 'finished_production' %}
-        <li>
-            <b>{{ page.title | capitalize }}</b>
-            <span class="badge{% if page.layout == 'finished_production' %} badge-success{% endif %}">{% if page.layout == 'finished_production' %}Fini{% else %}En cours{% endif %}</span>
+        {% if page.layout == 'production' %}
+            <h2>{{ page.title | capitalize }}</h2>
+            <div class="row">
+                <div class="span5">
+                    <dl class="dl-horizontal">
+                        <dt>Formation</dt>
+                        <dd>{{ page.group }}</dd>
+
+                        <dt>Genre</dt>
+                        <dd>{{ page.genre }}</dd>
+
+                        <dt>Equipe</dt>
+                    {% for teamate in page.team %}
+                        <dd>{{ teamate | capitalize }}</dd>
+                    {% endfor %}
+                    </dl>
+                </div>
+                <div class="span7">
+                    {{ page.widget }}
+                </div>
+            </div>
             <a href="{{ page.permalink }}">En savoir plus</a>
-        </li>
         {% endif %}
         {% endfor %}
-    </ul>
     </div>
 </div>
