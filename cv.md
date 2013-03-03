@@ -18,3 +18,7 @@ Expériences
 ==========
 ### Bénévolat
 Avant de rentrer en ISTS j'ai fait beaucoup de bénévolats dans différents concerts. Assister aux montage et au démontage d'une scène, rencontrer des professionnels et voir un concert sous un autre angle m'ont beaucoup aidé dans le choix de mes études.
+
+- RDV de l'Erdre 2012: assister le régisseur, backline et patch, acceuil des artistes.
+- Histoire d'Avenir (2011 et 2012).
+- Membre de l'association Réel Son qui organise des concerts de reggae.
