@@ -14,3 +14,7 @@ Formations
 ### Baccalauréat STI électronique avec mention bien, lycée Livet Nantes. (2011 - 2013)
   Bonne base en électicité et en électronique qui me sert énormément aujourd'hui pour mieux comprendre le matériel professionnel. 
   
+Expériences
+==========
+### Bénévolat
+Avant de rentrer en ISTS j'ai fait beaucoup de bénévolats dans différents concerts. Assister aux montage et au démontage d'une scène, rencontrer des professionnels et voir un concert sous un autre angle m'ont beaucoup aidé dans le choix de mes études.
