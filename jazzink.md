@@ -2,11 +2,12 @@
 layout: production
 title: Jazz Ink - Les pieds dans la soupe (prémix)
 permalink: /jazz-ink.html
-group: - 'Eli Frot (Pianiste)'
-       - 'Etienne Hamayon (Clarinettiste)'
-       - 'Ronand Ristord (Batteur)'
-       - 'Camille Crespin (Trompettiste)'
-       - 'Andrew Paulsen (Contrebassiste)'
+group:
+    - 'Eli Frot (Pianiste)'
+    - 'Etienne Hamayon (Clarinettiste)'
+    - 'Ronand Ristord (Batteur)'
+    - 'Camille Crespin (Trompettiste)'
+    - 'Andrew Paulsen (Contrebassiste)'
 genre: 'Jazz'
 team:
     - 'Baptiste Quéméner'
