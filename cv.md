@@ -27,7 +27,7 @@ Mon travail consister essentiellement à assister le régisseur dans son travail
 #### - Contrat de deux mois dans l'entreprise Sercel à Carquefou (Juillet - Août 2011): 
   Test et contrôle de composants électroniques
 #### - Contrat de deux semaines dans un centre pour jeunes de quartiers (Juillet 2012):
-  Mon travail consister à travailler avec les jeunes pour créer et enregistrer des textes et des instrus de Hip-Hop avec fruity loops et samplitude.
+  Mon travail consistait à travailler avec les jeunes pour créer et enregistrer des textes et des instrus de Hip-Hop avec fruity loops et samplitude.
 
 Centre d'intérêts
 =================
