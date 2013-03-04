@@ -18,19 +18,19 @@ Expériences
 ===========
 ### Bénévolat
 Avant de rentrer en ISTS j'ai fait beaucoup de bénévolats dans différents concerts. Assister aux montage et au démontage d'une scène, rencontrer des professionnels et voir un concert sous un autre angle m'ont beaucoup aidé dans le choix de mes études.
-
-- RDV de l'Erdre 2012: assister le régisseur, backline et patch, acceuil des artistes.
+Mon travail consister essentielement à assister le régisseur dans son travail, participer aux changements de plateaux, et aux patchs, accueillir les artistes et pousser des tonnes de flight cases. 
+- RDV de l'Erdre 2012.
 - Histoire d'Avenir (2011 et 2012).
 - Membre de l'association Réel Son qui organise des concerts de reggae.
 
 ### Expériences professionnelles
 #### - Contrat de deux mois dans l'entreprise Sercel à Carquefou (Juillet - Août 2011): 
   Test et contrôle de composants électroniques
-#### - Contrat de deux semaines dans un centre pour jeune de quartiers (Juillet 2012):
+#### - Contrat de deux semaines dans un centre pour jeunes de quartiers (Juillet 2012):
   Mon travail consister à travailler avec les jeunes pour créer et enregistrer des textes et des instrus de Hip-Hop avec fruity loops et samplitude.
 
 Centre d'intérêts
 =================
-### Musique 
-Je compose beaucoup de musiques sur ordinateur, ce qui occupe la plus part de mon temps libre: Je pratique et je m'enregistre à la guitare électrique, à la batterie et aussi au scratch.
-Le reste de mon temps libre j'aime écouter de la musique et surtout découvrir de nouvelles originalités. J'aime aussi le cinéma et les séries américaines. Depuis que j'étudie à l'ESRA je m'intéresse à l'ambiance sonore que dégage un film, y compris la musique. 
+### Musique
+  Je compose beaucoup de musiques sur ordinateur, ce qui occupe la plus part de mon temps libre: Je pratique et je m'enregistre à la guitare électrique, à la batterie et aussi au scratch.
+  Le reste de mon temps libre j'aime écouter de la musique et surtout découvrir de nouvelles originalités. J'aime aussi le cinéma et les séries américaines. Depuis que j'étudie à l'ESRA je m'intéresse à l'ambiance sonore que dégage un film, y compris la musique. 
