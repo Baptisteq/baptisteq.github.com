@@ -23,7 +23,9 @@ Expériences
 ### Bénévolat
 Avant de rentrer en ISTS, j'ai fait beaucoup de bénévolats dans différents concerts.
 Participer au montage et au démontage d'une scène, rencontrer des professionnels et voir un concert sous un autre angle
-m'ont beaucoup aidé dans le choix de mes études. Mon travail consistait essentiellement à assister le régisseur dans
+m'ont beaucoup aidé dans le choix de mes études.
+
+Mon travail consistait essentiellement à assister le régisseur dans
 son travail.
 Il s'agissait principalement de participer aux changements de plateaux et aux patchs,
 d'accueillir les artistes et de pousser des tonnes de flight cases!
