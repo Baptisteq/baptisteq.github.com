@@ -27,7 +27,12 @@ Les enregistrements étaient tous en live, sans re-re : il n'était pas envisage
 -- Grosse caisse vide: captée avec un Beta 52. Reculé de 30 cm de la grosse caisse sans le mettre à l'intérieur, permet d'obtenir un son bien rond avec beaucoup moins d'impact de la pédale.
 -- Caisse Claire: il y avait deux micros sur la caisse claire un au dessus et un en dessous, mais après écoute les OVH captés excellement bien la caisse claire avec beaucoup d'air et avec un son peu aggressif. On a donc laissé un SM57 en dessous de la caisse claire, pour que les passages de balais ressortent mieux au mix.   
 -- 2 PG58 sur le tom aigu et le tom basse.    
--- 2 PG81 micro à condensateur pour les OVH. 
+-- 2 PG81 micro à condensateur pour les OVH.   
+   
+- Le piano: le piano était un Pleyel 3/4 de queue. Pour un bon rendu stéréo j'ai utilisé 2 AKG C414 ULS en hypercardio que j'ai mis à proximité des cordes, pour avoir peu de reprise des autres sources et pour avoir la profondeur de la caisse de résonance.   
+- Pour la trompette j'ai utilisé le Sennheiser MD441 hypercardioïde. Je suis très content de ce micro qui est capable de retransmettre un parfait equilibre de l'instrument et avec une très faible reprise des autres instruments. Comme on peut l'entendre dans cet enregistrement:   
+
+ 
 
 
 
