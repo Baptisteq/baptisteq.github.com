@@ -33,7 +33,7 @@ Les enregistrements étaient tous en live, sans re-re : il n'était pas envisage
 - Pour la trompette j'ai utilisé le Sennheiser MD441 hypercardioïde. Je suis très content de ce micro qui est capable de retransmettre un parfait equilibre de l'instrument et avec une très faible reprise des autres instruments. Comme on peut l'entendre dans cet enregistrement:   
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F81817385%3Fsecret_token%3Ds-OSnuG&amp;color=ff6600&amp;auto_play=false&amp;show_artwork=false"></iframe>
 
- 
+
 
 
 
