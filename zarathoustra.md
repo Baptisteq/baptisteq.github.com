@@ -4,7 +4,7 @@ title: Zarathoustra - Bird of Loneliness
 permalink: /zarathoustra.html
 group: '
     - 'Pier: Percussions et choeur'
-    -' David: Guitare et chant'
+    - 'David: Guitare et chant'
 genre: 'Folk'
 team:
     - 'Baptiste Quéméner'
