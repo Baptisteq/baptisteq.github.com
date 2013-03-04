@@ -5,24 +5,28 @@ layout: default
     <div class="span12">
         {% for page in site.pages %}
         {% if page.layout == 'production' %}
-            <h2>{{ page.title | capitalize }}</h2>
+            <div class="row">
+                <div class="span12">
+                    <h2>{{ page.title }}</h2>
+                </div>
+            </div>
             <a href="{{ page.permalink }}">En savoir plus</a>
             <div class="row">
                 <div class="span5">
                     <dl class="dl-horizontal">
-                        <dt>Formation</dt>            
+                        <dt>Formation</dt>
                         {% for group in page.group %}
-                            <dd>{{ group | capitalize }}</dd>
+                            <dd>{{ group }}</dd>
                         {% endfor %}
 
                         <dt>Genre</dt>
                         {% for genre in page.genre %}
-                            <dd>{{ genre | capitalize }}</dd>
+                            <dd>{{ genre }}</dd>
                         {% endfor %}
-            
+
                         <dt>Equipe</dt>
                         {% for team in page.team %}
-                            <dd>{{ team | capitalize }}</dd>
+                            <dd>{{ team }}</dd>
                         {% endfor %}
                     </dl>
                 </div>

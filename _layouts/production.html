@@ -3,7 +3,7 @@ layout: default
 ---
 <div class="row">
     <div class="span12">
-        <h2>{{ page.title | capitalize }}</h2>
+        <h2>{{ page.title }}</h2>
     </div>
 </div>
 <div class="row">
@@ -11,17 +11,17 @@ layout: default
         <dl class="dl-horizontal">
             <dt>Formation</dt>
             {% for group in page.group %}
-                <dd>{{ group | capitalize }}</dd>
+                <dd>{{ group }}</dd>
             {% endfor %}
 
             <dt>Genre</dt>
             {% for genre in page.genre %}
-                <dd>{{ genre | capitalize }}</dd>
+                <dd>{{ genre }}</dd>
             {% endfor %}
 
             <dt>Equipe</dt>
             {% for team in page.team %}
-                <dd>{{ team | capitalize }}</dd>
+                <dd>{{ team }}</dd>
             {% endfor %}
         </dl>
     </div>
