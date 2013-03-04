@@ -12,7 +12,7 @@ Formations
 - Réalisation d'une émission radio et d'un clip musical...
   
 ### Baccalauréat STI électronique avec mention bien, lycée Livet Nantes. (2009 - 2011)
-  Bonne base en électicité et en électronique qui me servent énormément aujourd'hui pour mieux comprendre le matériel professionnel, dans leur fonctionnement et leur utilité. 
+  Bonne base en électicité et en électronique qui me servent énormément aujourd'hui pour mieux comprendre le matériel professionnel, dans leur fonctionnement et leur utilité.          
   Option: Art du spectacle
 Expériences
 ===========
