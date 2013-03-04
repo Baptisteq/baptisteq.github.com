@@ -24,8 +24,7 @@ Avant de rentrer en ISTS j'ai fait beaucoup de bénévolats dans différents con
 - Membre de l'association Réel Son qui organise des concerts de reggae.
 
 ### Expériences professionnelles
-####Contrat de deux mois dans l'entreprise Sercel à Carquefou (Juillet - Août 2011):
+####- Contrat de deux mois dans l'entreprise Sercel à Carquefou (Juillet - Août 2011):
 Test et contrôle de composants électroniques
-
-####Contrat de deux semaines dans un centre pour jeune de quartiers (Juillet 2012):
+####- Contrat de deux semaines dans un centre pour jeune de quartiers (Juillet 2012):
 Mon travail consister à travailler avec les jeunes pour créer et enregistrer des textes et des instrus de Hip-Hop avec fruity loops et samplitude.
