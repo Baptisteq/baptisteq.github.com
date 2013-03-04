@@ -1,6 +1,6 @@
 ---
 layout: production
-title: Zarathoustra - Bird of Loneliness
+title: 'Zarathoustra - Bird of Loneliness'
 permalink: /zarathoustra.html
 group: '
     - 'Pier: Percussions et choeur'
