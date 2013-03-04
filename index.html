@@ -10,16 +10,21 @@ layout: default
             <div class="row">
                 <div class="span5">
                     <dl class="dl-horizontal">
-                        <dt>Formation</dt>
-                        <dd>{{ page.group }}</dd>
+                        <dt>Formation</dt>            
+                        {% for group in page.group %}
+                            <dd>{{ group | capitalize }}</dd>
+                        {% endfor %}
 
                         <dt>Genre</dt>
                         <dd>{{ page.genre }}</dd>
-
+                        {% for genre in page.genre %}
+                            <dd>{{ genre | capitalize }}</dd>
+                        {% endfor %}
+            
                         <dt>Equipe</dt>
-                    {% for teamate in page.team %}
-                        <dd>{{ teamate | capitalize }}</dd>
-                    {% endfor %}
+                        {% for team in page.team %}
+                            <dd>{{ team | capitalize }}</dd>
+                        {% endfor %}
                     </dl>
                 </div>
                 <div class="span7">
