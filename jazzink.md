@@ -24,7 +24,7 @@ Les enregistrements étaient tous en live, sans re-re : il n'était pas envisage
 
 - La batterie: il y a 6 micros en tout sur la batterie. On a utilisé pour cela le Kit de micro Shure pour batterie
 
--- Grosse caisse vide: captée avec un Beta 52. Reculé de 30 cm de la grosse caisse sans le mettre à l'intérieur, permet d'obtenir un son bien rond avec beaucoup moins d'impact de la pédale.
+-- Grosse caisse vide: captée avec un Beta 52. Reculé de 30 cm de la grosse caisse sans le mettre à l'intérieur, permet d'obtenir un son bien rond avec beaucoup moins d'impact de la pédale.   
 -- Caisse Claire: il y avait deux micros sur la caisse claire un au dessus et un en dessous, mais après écoute les OVH captés excellement bien la caisse claire avec beaucoup d'air et avec un son peu aggressif. On a donc laissé un SM57 en dessous de la caisse claire, pour que les passages de balais ressortent mieux au mix.   
 -- 2 PG58 sur le tom aigu et le tom basse.    
 -- 2 PG81 micro à condensateur pour les OVH.   
