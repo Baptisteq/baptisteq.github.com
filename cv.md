@@ -44,7 +44,6 @@ des instrus de Hip-Hop avec fruity loops et samplitude.
 
 Centres d'intérêt
 =================
-### Musique
 Je compose beaucoup de musiques sur ordinateur, ce qui occupe la plupart de mon temps libre.
 
 Je pratique et je m'enregistre à la guitare électrique, à la batterie et aussi au scratch.
