@@ -23,7 +23,8 @@ Elle était composée d'un Mac avec Protools MP8 du controleur Projectmix qui fa
 Les enregistrements étaient tous en live, sans re-re : il n'était pas envisageable que des musiciens de jazz ne puissent pas se voir en jouant. Il était donc nécessaire de choisir les micros en conséquences:
 
 La batterie: il y a 6 micros en tout sur la batterie. On a utilisé pour cela le Kit de micro shure pour batterie
-    - Grosse caisse vide: capté avec un Beta 52. Reculé de 30 cm de la grosse caisse sans le mettre à l'intérieur, permet d'obtenir un son bien rond avec beaucoup moins d'impact de la pédale.
-    - Caisse Claire: il y avait deux micros sur la caisse claire un au dessus et un en dessous, mais après écoute les OVH captés excellement bien la caisse claire avec beaucoup d'air et avec un son peu aggressif. On a donc laissé un SM57 en dessous de la caisse claire, pour que les passages de balais ressortent mieux au mix.
+
+- Grosse caisse vide: capté avec un Beta 52. Reculé de 30 cm de la grosse caisse sans le mettre à l'intérieur, permet d'obtenir un son bien rond avec beaucoup moins d'impact de la pédale.
+- Caisse Claire: il y avait deux micros sur la caisse claire un au dessus et un en dessous, mais après écoute les OVH captés excellement bien la caisse claire avec beaucoup d'air et avec un son peu aggressif. On a donc laissé un SM57 en dessous de la caisse claire, pour que les passages de balais ressortent mieux au mix.
 
 
