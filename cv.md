@@ -18,10 +18,10 @@ Expériences
 ===========
 ### Bénévolat
 Avant de rentrer en ISTS j'ai fait beaucoup de bénévolats dans différents concerts. Assister aux montage et au démontage d'une scène, rencontrer des professionnels et voir un concert sous un autre angle m'ont beaucoup aidé dans le choix de mes études.
-Mon travail consister essentielement à assister le régisseur dans son travail, participer aux changements de plateaux, et aux patchs, accueillir les artistes et pousser des tonnes de flight cases. 
+Mon travail consister essentiellement à assister le régisseur dans son travail, participer aux changements de plateaux, et aux patchs, accueillir les artistes et pousser des tonnes de flight cases. 
 - RDV de l'Erdre 2012.
 - Histoire d'Avenir (2011 et 2012).
-- Membre de l'association Réel Son qui organise des concerts de reggae.
+- Membre de l'association Réel Son qui organise des concerts de reggae sur la région nantaise
 
 ### Expériences professionnelles
 #### - Contrat de deux mois dans l'entreprise Sercel à Carquefou (Juillet - Août 2011): 
