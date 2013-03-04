@@ -1,8 +1,10 @@
 ---
 layout: production
-title: Danse hongroise n°1 de Brahms - Ars Juvenis
+title: Zarathoustra - Bird of Loneliness
 permalink: /zarathoustra.html
-group: 'Zarathoustra - Bird of Loneliness'
+group: '
+    - 'Pier: Percussions et choeur'
+    -' David: Guitare et chant'
 genre: 'Folk'
 team:
     - 'Baptiste Quéméner'
