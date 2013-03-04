@@ -15,7 +15,7 @@ Formations
   Bonne base en électicité et en électronique qui me servent énormément aujourd'hui pour mieux comprendre le matériel professionnel, dans leur fonctionnement et leur utilité. 
   Option: Art du spectacle
 Expériences
-==========
+===========
 ### Bénévolat
 Avant de rentrer en ISTS j'ai fait beaucoup de bénévolats dans différents concerts. Assister aux montage et au démontage d'une scène, rencontrer des professionnels et voir un concert sous un autre angle m'ont beaucoup aidé dans le choix de mes études.
 
@@ -28,3 +28,9 @@ Avant de rentrer en ISTS j'ai fait beaucoup de bénévolats dans différents con
   Test et contrôle de composants électroniques
 #### - Contrat de deux semaines dans un centre pour jeune de quartiers (Juillet 2012):
   Mon travail consister à travailler avec les jeunes pour créer et enregistrer des textes et des instrus de Hip-Hop avec fruity loops et samplitude.
+
+Centre d'intérêts
+=================
+### Musique 
+Je compose beaucoup de musiques sur ordinateur, ce qui occupe la plus part de mon temps libre: Je pratique et je m'enregistre à la guitare électrique, à la batterie et aussi au scratch.
+Le reste de mon temps libre j'aime écouter de la musique et surtout découvrir de nouvelles originalités. J'aime aussi le cinéma et les séries américaines. Depuis que j'étudie à l'ESRA je m'intéresse à l'ambiance sonore que dégage un film, y compris la musique. 
