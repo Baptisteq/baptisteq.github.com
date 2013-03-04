@@ -11,7 +11,7 @@ Formation sur 3 Années dans tous les domaines professionnels liés aux sons:
 - Enregistrement et mixage studio
 - Prise de sons, et post-production pour le cinéma et la télévision
 - Réalisation d'émissions radio et d'un clip musical...
-  
+
 ### Baccalauréat STI électronique avec mention bien, lycée Livet Nantes. (2009 - 2011)
 Bonne base en électicité et en électronique qui me servent énormément aujourd'hui pour mieux comprendre le
 matériel professionnel, dans leur fonctionnement et leur utilité.
@@ -52,4 +52,4 @@ Le reste de mon temps libre j'aime écouter de la musique et surtout découvrir 
 
 J'aime aussi le cinéma et les séries américaines.
 
-Depuis que j'étudie à l'ISTS (au sein de l'ESRA) je m'intéresse beaucoup à l'ambiance sonore que dégage un film, y compris la musique. 
+Depuis que j'étudie à l'ISTS (au sein de l'ESRA) je m'intéresse beaucoup à l'ambiance sonore que dégage un film, y compris la musique.
