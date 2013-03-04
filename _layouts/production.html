@@ -6,6 +6,7 @@ layout: default
     <div class="span5">
         <dl class="dl-horizontal">
             <dt>Formation</dt>
+            {{ page.group.kind_of?(Array) }}
             {% for member in page.group %}
                 <dd>{{ member | capitalize }}</dd>
             {% endfor %}
