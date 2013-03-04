@@ -3,7 +3,8 @@ layout: production
 title: Danse hongroise n°1 de Brahms - Ars Juvenis
 permalink: /arsjuvenis.html
 group: 'Orchestre symphonique Ars Juvenis'
-genre: 'Musique classique'
+genre: 'Musique classique'   
+
 team:
     - 'Baptiste Quéméner'
     - 'jibé hueber'
