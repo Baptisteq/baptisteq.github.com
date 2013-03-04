@@ -43,7 +43,12 @@ des instrus de Hip-Hop avec fruity loops et samplitude.
 Centres d'intérêt
 =================
 ### Musique
-Je compose beaucoup de musiques sur ordinateur, ce qui occupe la plus part de mon temps libre.
+Je compose beaucoup de musiques sur ordinateur, ce qui occupe la plupart de mon temps libre.
 
 Je pratique et je m'enregistre à la guitare électrique, à la batterie et aussi au scratch.
-  Le reste de mon temps libre j'aime écouter de la musique et surtout découvrir de nouvelles originalités. J'aime aussi le cinéma et les séries américaines. Depuis que j'étudie à l'ESRA je m'intéresse beaucoup à l'ambiance sonore que dégage un film, y compris la musique. 
+
+Le reste de mon temps libre j'aime écouter de la musique et surtout découvrir de nouvelles originalités.
+
+J'aime aussi le cinéma et les séries américaines.
+
+Depuis que j'étudie à l'ISTS (au sein de l'ESRA) je m'intéresse beaucoup à l'ambiance sonore que dégage un film, y compris la musique. 
