@@ -2,7 +2,7 @@
 layout: production
 title: La route (Création sonore)
 permalink: /la_route.html
-group: ''
+
 genre: 'Radio drama'
 
 team:
