@@ -22,3 +22,20 @@ pour qu'il imagine l'ambiance l'univers et l'histoire.
    
 cette production à pris 2 mois pour être réalisé. Il a fallut adapter le scénario, rechercher les différents comediens, créer la musique d'introduction, enregistrer des ambiances et des bruitages (tous les bruitages sont enrgistrés).
 Puis finir par le montage et le mixage.   
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    
+                      
+                        
+                          
+                            
+                              
+                                
+                                
