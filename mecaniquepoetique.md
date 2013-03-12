@@ -19,6 +19,9 @@ La musique d'introduction est extrait du morceau "Le Lac des Signes" de l'album 
 
 
 [Site internet des champs libres](http://www.leschampslibres.fr/les-champs-libres/expositions/temporaires/les-mecaniques-poetiques/)   
-Site internet de Jarring Effects: http://www.jarringeffects.net/fr/   
-Site internet d'Ez3kiel: http://www.ez3kiel.com/   
+[Site internet de Jarring Effects](http://www.jarringeffects.net/fr/)   
+[Site internet d'Ez3kiel](http://www.ez3kiel.com/)   
+
+
+
 
