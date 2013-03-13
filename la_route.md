@@ -22,9 +22,8 @@ pour qu'il imagine l'ambiance l'univers et l'histoire.
    
 cette production à pris 2 mois pour être réalisé. Il a fallut adapter le scénario, rechercher les différents comediens, créer la musique d'introduction, enregistrer des ambiances et des bruitages (tous les bruitages sont enrgistrés).
 Puis finir par le montage et le mixage.   
-  
-    
-      
+
+La musique d'introduction et de conclusion à été composé par moi, jibé hueber, [Kevin Hass](http://kevinhaas.eu/) et Sébastien au violoncelle. La musique d'ambiance a été improvisé et joué très rapidement par le groupe Jazz Ink lorsqu'on les avait enregistré en Octobre 
         
           
             
