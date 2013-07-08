@@ -6,8 +6,9 @@ group:
     - 'Mariama (chant)'
     - 'Doudou (premier Balafon)'
     - 'Pierre (deuxième Balafon)'
-    - 'Marc (Kora)'
+    - 'Marc (kora)'
     - 'Yul (percussions)'
+    - 'Marion (basse)'
 genre: 'Musique traditionnelle de l'Ouest Afrique (Mali)'
 team:
     - 'Baptiste Quéméner'
@@ -19,9 +20,7 @@ widget: '<iframe width="100%" height="166" scrolling="no" frameborder="no" src="
 
 ### Réalisation
 
-Jazz Ink est une formation de jazz dont mon équipe et moi-même avons réalisés l'enregistrement de leur premier EP. Ils ditribuent ce-dernier à des organisateurs de concerts et de festivals. L'enregistrement a été effectué chez eux dans leur salon avec la régie installée dans une autre salle separée par une porte.
-La régie était composée d'un Mac avec Protools MP8, du controleur Projectmix qui fait aussi carte son 8 entrées et une extension ADAT 8 entrées Berhinger.
-Les enregistrements étaient tous en live, sans re-re : il n'était pas envisageable que des musiciens de jazz ne puissent pas se voir en jouant. Il était donc nécessaire de choisir les micros en conséquences:
+Terikan est la rencontre entre 
 
  - La batterie: il y a 6 micros en tout sur la batterie. On a utilisé pour cela le Kit de micro Shure pour batterie
   - Grosse caisse vide: captée avec un Beta 52. Reculé de 30 cm de la grosse caisse sans le mettre à l'intérieur, permet d'obtenir un son bien rond avec beaucoup moins d'impact de la pédale.
