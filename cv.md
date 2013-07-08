@@ -28,7 +28,7 @@ m'ont beaucoup aidé dans le choix de mes études.
 Mon travail consistait essentiellement à assister le régisseur dans
 son travail.
 Il s'agissait principalement de participer aux changements de plateaux et aux patchs,
-d'accueillir les artistes et de pousser des tonnes de flight cases!
+d'accueillir les artistes et de pousser des tonnes de flight cases!  
 
 - RDV de l'Erdre 2012
 - Histoire d'Avenir (2011 et 2012)
