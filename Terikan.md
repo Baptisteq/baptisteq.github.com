@@ -8,7 +8,7 @@ group:
     - 'Pierre (deuxième Balafon)'
     - 'Marc (kora)'
     - 'Yul (percussions)'
-    - '(basse)'
+    - 'Elodie (basse)'
 genre: 'Musique traditionnelle de l'Ouest Afrique (Mali)'
 team:
     - 'Baptiste Quéméner'
