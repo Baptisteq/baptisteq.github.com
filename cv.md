@@ -37,6 +37,8 @@ d'accueillir les artistes et de pousser des tonnes de flight cases!
 Encore aujourd'hui je fais toujours du bénévolat pour différent évenements ce qui me permet de rencontrer des professionnels qui me laisse l'opportunité d'appliquer ce que j'ai appris en pratique: 
 - Festival Bobital 2013: Asssistant à la régie vidéo (société [Clap Image] (http://www.clapimage.fr/)). Où j'ai eu la chance de cadrer, camera à l'épaule le concert des Bloody Beetroots. 
 
+### Stages 
+- Festival Etonnants Voyageurs 2013 (durée d' une semaine): Festival de litérature avec de nombreuses conférences sonorisées. Je travaillais dans une équipe, où nous étions chargés de l'instalation et de l' exploitation des différentes salles de conférence.
 ### Expériences professionnelles
 #### Contrat de deux mois dans l'entreprise Sercel à Carquefou (Juillet - Août 2011)
 Test et contrôle de composants électroniques
