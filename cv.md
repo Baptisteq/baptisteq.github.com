@@ -35,7 +35,7 @@ d'accueillir les artistes et de pousser des tonnes de flight cases!
 - Membre de l'association Réel Son qui organise des concerts de reggae sur la région nantaise  
 
 Encore aujourd'hui je fais toujours du bénévolat pour différent évenements ce qui me permet de rencontrer des professionnels qui me laisse l'opportunité d'appliquer ce que j'ai appris en pratique: 
-- RDV de l'Erdre 2012 Festival Bobital 2013: Asssistant à la régie vidéo (société [Clap Image] (http://www.clapimage.fr/)). Où j'ai eu la chance de cadrer, camera à l'épaule le concert des Bloody Beetroots. 
+- Festival Bobital 2013: Asssistant à la régie vidéo (société [Clap Image] (http://www.clapimage.fr/)). Où j'ai eu la chance de cadrer, camera à l'épaule le concert des Bloody Beetroots. 
 
 ### Expériences professionnelles
 #### Contrat de deux mois dans l'entreprise Sercel à Carquefou (Juillet - Août 2011)
