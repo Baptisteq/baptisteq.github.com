@@ -1,7 +1,7 @@
 ---
 layout: production
 title: Terikan - Sinté 
-permalink: /jazz-ink.html
+permalink: /terikan.html
 group:
     - 'Mariama (chant)'
     - 'Doudou (premier Balafon)'
