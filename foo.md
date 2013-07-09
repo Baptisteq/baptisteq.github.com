@@ -1,9 +1,0 @@
----
-layout: production
----
-
-foo
-
-
-
-
