@@ -31,7 +31,11 @@ layout: default
                     </dl>
                 </div>
                 <div class="span7">
-                    {{ page.widget }}
+                    {% if page.widget %}
+                        {{ page.widget }}
+                    {% else if page.widgets %}
+                        {{ page.widgets.first() }}
+                    {% endif %}
                 </div>
             </div>
         {% endif %}
