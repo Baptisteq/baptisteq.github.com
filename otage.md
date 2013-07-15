@@ -4,10 +4,10 @@ title: Court métrage - Otage (Manual Focus)
 permalink: /otage.html
 group:
 genre: 'Court métrage'
-team: 
+team:
     - 'Baptiste Quéméner'
     - 'Théo Poussard'
-    - 'Benoit Hauton' 
+    - 'Benoit Hauton'
 widget: ''
 ---
 

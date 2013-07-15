@@ -30,7 +30,3 @@ Liste des micros et pré-amps :
 - Neumann TLM 103: voix
 - 2xAKG 451b: OVH percussions
 - SM57: Derbuka
-
-
-
-
