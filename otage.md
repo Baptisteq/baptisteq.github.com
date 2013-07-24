@@ -9,7 +9,7 @@ team:
     - 'Théo Poussard'
     - 'Benoit Hauton'
 widget: '' 
-![Alt text](/D:/backup D/doc/otage affiche.jpg)
+![Alt text](/D:/backup D/doc/otage affiche.jpg.jpeg)
 ---
 
 ### Réalisation
