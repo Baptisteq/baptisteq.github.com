@@ -8,7 +8,8 @@ team:
     - 'Baptiste Quéméner'
     - 'Théo Poussard'
     - 'Benoit Hauton'
-widget: ''
+widget: '' 
+![Alt text](/D:/backup D/doc/otage affiche.jpg)
 ---
 
 ### Réalisation
