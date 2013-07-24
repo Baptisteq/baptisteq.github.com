@@ -34,9 +34,11 @@ d'accueillir les artistes et de pousser des tonnes de flight cases!
 - Histoire d'Avenir (2011 et 2012)
 - Membre de l'association Réel Son qui organise des concerts de reggae sur la région nantaise  
 
-Encore aujourd'hui je fais toujours du bénévolat pour différent évenements ce qui me permet de rencontrer des professionnels qui me laisse l'opportunité d'appliquer ce que j'ai appris en pratique: 
+Encore aujourd'hui je fais toujours du bénévolat pour différent évenements ce qui me permet de rencontrer des professionnels qui me laissent l'opportunité d'appliquer ce que j'ai appris en pratique: 
 
 - Festival Bobital 2013: Asssistant à la régie vidéo (société [Clap Image] (http://www.clapimage.fr/)). Où j'ai eu la chance de cadrer, camera à l'épaule le concert des Bloody Beetroots. 
+- Festival Quartier d'été 2013: Régisseur technique sous le chapiteau de l'Elabo (mise en place du planning avec les artistes , instalation et exploitation de la scène (son & lumière). 
+
 
 ### Stages 
 - Festival Etonnants Voyageurs 2013 (durée d' une semaine): Festival de litérature avec de nombreuses conférences sonorisées. Je travaillais dans une équipe, où nous étions chargés de l'instalation et de l' exploitation des différentes salles de conférence. 
