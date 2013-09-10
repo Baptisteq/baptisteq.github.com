@@ -42,6 +42,7 @@ Encore aujourd'hui je fais toujours du bénévolat pour différent évenements c
 
 ### Stages 
 - Festival Etonnants Voyageurs 2013 (durée d' une semaine): Festival de litérature avec de nombreuses conférences sonorisées. Je travaillais dans une équipe, où nous étions chargés de l'instalation et de l' exploitation des différentes salles de conférence. 
+- Radio France Bleu Armorique (1 mois): Ce stage m'a permit de me familirariser avec la diffusion radiophonique 
 
 ### Expériences professionnelles
 #### Contrat de deux mois dans l'entreprise Sercel à Carquefou (Juillet - Août 2011)
