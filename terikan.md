@@ -18,10 +18,9 @@ team:
 widgets:
     - '<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F100167328&amp;color=ff6600&amp;auto_play=false&amp;show_artwork=false"></iframe>'
     - '<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F100171863&amp;color=ff6600&amp;auto_play=false&amp;show_artwork=false"></iframe>' 
-Cette oeuvre a aussi été l'objet d'un exercice de réalisation de clip musical dans le cadre de nos études. Ce qui nous a permis de découvrir la réalisation audiovisuelle en tournage et aussi en post-production:   
     - '<iframe width="560" height="315" src="//www.youtube.com/embed/_AesoVdzEDo" frameborder="0" allowfullscreen></iframe>'
----
 
+--
 ### Réalisation
 
 Terikan est la rencontre entre six musiciens qui pratique et s'inspire de la musique traditionnelle de l'Ouest Afrique. Ils partagent leur passions communes à travers différentes associations sur l'aglomération rennaise qui proposent des cours de pratiques instrumentales.
