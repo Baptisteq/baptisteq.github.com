@@ -26,7 +26,7 @@ Encore aujourd'hui je fais toujours du bénévolat pour différent évenements c
 ### Stages 
 - Festival Etonnants Voyageurs 2013 (durée d' une semaine): Festival de litérature avec de nombreuses conférences sonorisées. Je travaillais dans une équipe, où nous étions chargés de l'instalation et de l' exploitation des différentes salles de conférence. 
 - Radio France Bleu Armorique (1 mois): Ce stage m'a permit de me familirariser avec la diffusion radiophonique. 
-- AGM Factory à Rennes: stage de un mois où j'ai pu découvrir une entreprise de post-production pour les différents formats audiovisuels (Cinéma, TV). J'ai rencontré des professionnels qui m'ont énormément formé sur les différentes étapes de post-production (Montage 5.1, mixage 5.1, Rec doublages bruitages, conformation, préparations de sessions...) mais aussi sur la maintenance technique des studios. 
+- AGM Factory à Rennes: stage de un mois où j'ai pu découvrir une entreprise de post-production, des différents formats audiovisuels (Cinéma, TV). J'ai rencontré des professionnels qui m'ont énormément formé sur les différentes étapes de post-production (Montage 5.1, mixage 5.1, Rec doublages bruitages, conformation, préparations de sessions...), mais aussi sur la maintenance technique des studios. 
 
 ### Expériences professionnelles
 #### Contrat de deux mois dans l'entreprise Sercel à Carquefou (Juillet - Août 2011)
