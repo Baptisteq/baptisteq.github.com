@@ -4,6 +4,12 @@ layout: cv
 
 Expériences
 ===========
+
+### Stages 
+- Festival Etonnants Voyageurs 2013 (durée d' une semaine): Festival de litérature avec de nombreuses conférences sonorisées. Je travaillais dans une équipe, où nous étions chargés de l'instalation et de l' exploitation des différentes salles de conférence. 
+- Radio France Bleu Armorique (1 mois): Ce stage m'a permit de me familirariser avec la diffusion radiophonique. 
+- AGM Factory à Rennes: stage de un mois où j'ai pu découvrir une entreprise de post-production, des différents formats audiovisuels (Cinéma, TV). J'ai rencontré des professionnels qui m'ont énormément formé sur les différentes étapes de post-production (Montage 5.1, mixage 5.1, Rec doublages bruitages, conformation, préparations de sessions...), mais aussi sur la maintenance technique des studios. 
+
 ### Bénévolat
 Avant de rentrer en ISTS, j'ai fait beaucoup de bénévolats dans différents concerts.
 Participer au montage et au démontage d'une scène, rencontrer des professionnels et voir un concert sous un autre angle
@@ -22,11 +28,7 @@ Encore aujourd'hui je fais toujours du bénévolat pour différent évenements c
 
 - Festival Bobital 2013: Asssistant à la régie vidéo (société [Clap Image] (http://www.clapimage.fr/)). Où j'ai eu la chance de cadrer, camera à l'épaule le concert des Bloody Beetroots. 
 - Festival Quartier d'été 2013: Régisseur technique sous le chapiteau de l'Elabo (mise en place du planning avec les artistes , instalation et exploitation de la scène (son & lumière). 
-
-### Stages 
-- Festival Etonnants Voyageurs 2013 (durée d' une semaine): Festival de litérature avec de nombreuses conférences sonorisées. Je travaillais dans une équipe, où nous étions chargés de l'instalation et de l' exploitation des différentes salles de conférence. 
-- Radio France Bleu Armorique (1 mois): Ce stage m'a permit de me familirariser avec la diffusion radiophonique. 
-- AGM Factory à Rennes: stage de un mois où j'ai pu découvrir une entreprise de post-production, des différents formats audiovisuels (Cinéma, TV). J'ai rencontré des professionnels qui m'ont énormément formé sur les différentes étapes de post-production (Montage 5.1, mixage 5.1, Rec doublages bruitages, conformation, préparations de sessions...), mais aussi sur la maintenance technique des studios. 
+ 
 
 ### Expériences professionnelles
 #### Contrat de deux mois dans l'entreprise Sercel à Carquefou (Juillet - Août 2011)
