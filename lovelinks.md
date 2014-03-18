@@ -1,7 +1,7 @@
 ---
 layout: production
 title: Pub Lovelinks - ESRA Bretagne 
-permalink: /Satie.html
+permalink: /lovelinks.html
 group:
 genre: 'Pub'
 team: '-'
