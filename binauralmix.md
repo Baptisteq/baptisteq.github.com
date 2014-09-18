@@ -4,7 +4,7 @@ title: Orchestre d'harmonie d'Ille-Et-Vilaine mixage binaural
 permalink: /mixbin.html
 group:
     - 'Baptiste Quéméner'
-genre: 'Mémoire de fin d'études' 
+genre: 'Mémoire' 
 
 team: '-' 
 
